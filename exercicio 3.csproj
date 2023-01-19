@@ -6,4 +6,8 @@
     <RootNamespace>exercicio_3</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\Enums\" />
+  </ItemGroup>
+
 </Project>
