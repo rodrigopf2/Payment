@@ -8,7 +8,7 @@ namespace exercicio_3.Entities
     {
         public double AdditionalCharge { get; set; }
 
-        public OutsourcedEmployee(double additionalCharge) :base(string name, int hours)
+        public OutsourcedEmployee (double additionalCharge) : base(string name, int hours, double valuePerHour)
         {
             AdditionalCharge = additionalCharge;
         }
