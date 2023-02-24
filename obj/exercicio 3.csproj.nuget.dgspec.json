@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\aulas\\exercicio 3\\exercicio 3.csproj": {}
+    "E:\\aulas\\Payment\\exercicio 3.csproj": {}
   },
   "projects": {
-    "E:\\aulas\\exercicio 3\\exercicio 3.csproj": {
+    "E:\\aulas\\Payment\\exercicio 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\aulas\\exercicio 3\\exercicio 3.csproj",
+        "projectUniqueName": "E:\\aulas\\Payment\\exercicio 3.csproj",
         "projectName": "exercicio 3",
-        "projectPath": "E:\\aulas\\exercicio 3\\exercicio 3.csproj",
-        "packagesPath": "C:\\Users\\Pet\\.nuget\\packages\\",
-        "outputPath": "E:\\aulas\\exercicio 3\\obj\\",
+        "projectPath": "E:\\aulas\\Payment\\exercicio 3.csproj",
+        "packagesPath": "C:\\Users\\PET\\.nuget\\packages\\",
+        "outputPath": "E:\\aulas\\Payment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PET\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
