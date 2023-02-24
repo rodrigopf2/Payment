@@ -19,7 +19,7 @@ namespace exercicio_3
 
             for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine($"Employee #{i} data: ");
+                Console.WriteLine($"Emplyee #{i} data: ");
                 Console.Write("Outsourced (y/n)? "  );
                 char ch = char.Parse(Console.ReadLine());
                 Console.Write("Name: ");
